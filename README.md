@@ -4,16 +4,6 @@ A simple Spotify client built with Angular, Nx workspace, ngrx, TailwindCSS and 
 
 **Spotify premium** is required for the Web Playback SDK to play music. If you are using a free account, you can still browse the app, but it couldn't play the music.
 
-![Angular Spotify Browse][angular-spotify-browse]
-
-![Angular Spotify Visualizer][visualizer]
-
-![Angular Spotify Blurry Background][album-art]
-
-![Angular Spotify PWA][pwa]
-
-![Angular Spotify Web Player][web-player]
-
 ## Tech stack
 
 - [Angular 15][angular]
